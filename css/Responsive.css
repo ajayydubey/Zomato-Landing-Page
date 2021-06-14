@@ -1,0 +1,21 @@
+@media (min-width: 768px){
+
+    .navbar{
+        justify-content: space-around;
+        padding: 5px 30px;
+    
+    }
+}
+
+@media (min-width:1020px) {
+
+.navbar_brand{
+    width: 150px;
+}
+.nav_item{
+
+padding: 20px;
+font-size: 20px  ;
+}
+    
+}
